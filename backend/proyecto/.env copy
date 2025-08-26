@@ -1,0 +1,2 @@
+SECRET_KEY = django-insecure-60sk4m(!$ul*bxt7fosjh+%a02y=7pj2el%o9#m*(ms#hy60g$'))
+DEBUG=True
