@@ -34,7 +34,9 @@ DEBUG=os.environ.get('DEBUG')
 
 ALLOWED_HOSTS = ['*']
 
-
+CSRF_TRUSTED_CSRF_TRUSTED_ORIGINS = [
+    "https://localhost:8000"
+]
 # Application definition
 
 INSTALLED_APPS = [
